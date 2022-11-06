@@ -2,6 +2,6 @@
 package = "netlify-plugin-cloudinary"
 
     [plugins.inputs]
-    cloudname = "dtqn7kgwc"
+    cloudName = "dtqn7kgwc"
     deliveryType = "upload"
     uploadPreset = "arcane"
